@@ -4,3 +4,11 @@ h1 {
     font-size: 25px;
     font-weight: bold;
 }
+
+.topnav {
+    background: #60aae9;
+}
+
+.topnav ul a:hover {
+    background: #81bcef;
+}
